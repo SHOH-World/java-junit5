@@ -19,6 +19,4 @@ $ ./gradlew test
 ### Requirements
 * Used Intellij as IDE
 * Plugins installed were 'Cucumber for Java', 'Gherkin'
-* Used Java 22.0.1 or higher. Previous versions of Java are un-tested.
-* 
-* 
+* Used Java 21.0.3. Higher or Previous versions of Java are un-tested.
